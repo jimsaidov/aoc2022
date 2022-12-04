@@ -1,6 +1,14 @@
-# aoc2022
+My solutions for the [Advent of Code 2022][aoc]. Just for fun :) 
+# Note
+This code is not intended to be optimal, I might / would never write such code for anything productive. The whole purpose was to get the puzzles solved.
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [jimsaidov][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+Sometimes things are really hardcoded based on the details of the puzzles. 
+
+At some point, once I have some time, I might get back to the code and make some optimizations.
+
+# AOC 2022
+
+Welcome to the [Advent of Code][aoc] Kotlin project created by [jimsaidov][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, jimsaidov is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
