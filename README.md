@@ -1,4 +1,4 @@
-My solutions for the [Advent of Code 2022][aoc]. Just for fun :) 
+My solutions for the [Advent of Code 2022][aoc2022]. Just for fun :) 
 # Note
 This code is not intended to be optimal, I might / would never write such code for anything productive. The whole purpose was to get the puzzles solved.
 
@@ -25,6 +25,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
     You can solve the puzzle and provide an answer using the language of your choice.
 
 [aoc]: https://adventofcode.com
+[aoc2022]: https://adventofcode.com/2022
 [docs]: https://kotlinlang.org/docs/home.html
 [github]: https://github.com/jimsaidov
 [issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
